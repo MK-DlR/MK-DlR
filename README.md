@@ -1,32 +1,37 @@
-# About Me 🐈
+<h1 align="center">🌟 About Me 🌟</h1>
 
-<!--
-**MK-DlR/MK-DlR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  This text will be centered
+</div>
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on** ...
+- 🌱 **I’m currently learning** ...
+- 👯 **I’m looking to collaborate on** ...
+- 🤔 **I’m looking for help with** ...
+- 💬 **Ask me about** ...
+- 📫 **How to reach me:** adriennewman92@gmail.com
+- ⚡ **Fun fact:** ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Highlights
+  [![icons8-messages-64.png](https://i.postimg.cc/x8DHz9QN/icons8-messages-64.png "Messaging App")](https://messaging-app-bice-nine.vercel.app/) <!-- messaging app -->
+  [![icons8-map-64.png](https://i.postimg.cc/nzQBrCyY/icons8-map-64.png "Where's Waldo Game")](https://wheres-waldo-vert.vercel.app/) <!-- where's waldo -->
+  [![icons8-product-64.png](https://i.postimg.cc/Bb9DKJ3K/icons8-product-64.png "Inventory Management")](github.com/MK-DlR/inventory-app) <!-- TODO: inventory application -->
+  [![icons8-ship-64.png](https://i.postimg.cc/Fz5cLhvS/icons8-ship-64.png "Battleship Game")](https://mk-dlr.github.io/battleship-project/) <!-- battleship -->
 
 ## Contact
-[![icons8-gmail-logo-64.png](https://i.postimg.cc/brYf6hYx/icons8-gmail-logo-64.png)](mailto:adriennewman92@gmail.com) <!-- TODO: email -->
-[![icons8-website-64.png](https://i.postimg.cc/hv4RCB4y/icons8-website-64.png)](https://github.com/MK-DlR) <!-- TODO: personal website -->
-[![icons8-github-64.png](https://i.postimg.cc/FzFXP4F0/icons8-github-64.png)](https://github.com/MK-DlR) <!-- github -->
-[![icons8-linkedin-64.png](https://i.postimg.cc/Kjch92cD/icons8-linkedin-64.png)](https://www.linkedin.com/in/adrien-newman/) <!-- linkedin -->
-[![icons8-bluesky-64.png](https://i.postimg.cc/SRQbZhQX/icons8-bluesky-64.png)](https://bsky.app/profile/mk-dlr.bsky.social) <!-- bsky -->
-[![icons8-twitter-squared-64.png](https://i.postimg.cc/Gt3nMC3z/icons8-twitter-squared-64.png)](https://x.com/MK_DlR) <!-- twitter -->
+  [![icons8-gmail-logo-64.png](https://i.postimg.cc/brYf6hYx/icons8-gmail-logo-64.png "Email Me")](mailto:adriennewman92@gmail.com) <!-- email -->
+  [![icons8-website-64.png](https://i.postimg.cc/hv4RCB4y/icons8-website-64.png "Personal Website")](https://github.com/MK-DlR) <!-- TODO: personal website -->
+  [![icons8-github-64.png](https://i.postimg.cc/FzFXP4F0/icons8-github-64.png "GitHub (You're Here!)")](https://github.com/MK-DlR) <!-- github -->
+  [![icons8-linkedin-64.png](https://i.postimg.cc/Kjch92cD/icons8-linkedin-64.png "LinkedIn")](https://www.linkedin.com/in/adrien-newman/) <!-- linkedin -->
+  [![icons8-bluesky-64.png](https://i.postimg.cc/SRQbZhQX/icons8-bluesky-64.png "Bluesky")](https://bsky.app/profile/mk-dlr.bsky.social) <!-- bsky -->
+  [![icons8-twitter-squared-64.png](https://i.postimg.cc/Gt3nMC3z/icons8-twitter-squared-64.png "Twitter")](https://x.com/MK_DlR) <!-- twitter -->
 
 ## Languages & Tools
-[![icons8-javascript-64.png](https://i.postimg.cc/YSc9dh5j/icons8-javascript-64.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- javascript -->
-[![icons8-nodejs-64.png](https://i.postimg.cc/mkZWdsZS/icons8-nodejs-64.png)](https://nodejs.org/en) <!-- nodejs -->
-[![icons8-express-js-64.png](https://i.postimg.cc/J07CTL73/icons8-express-js-64.png)](https://expressjs.com/) <!-- express -->
-[![icons8-react-native-64.png](https://i.postimg.cc/kGMPjmMf/icons8-react-native-64.png)](https://react.dev/) <!-- react -->
+  [![icons8-javascript-64.png](https://i.postimg.cc/YSc9dh5j/icons8-javascript-64.png "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- javascript -->
+  [![icons8-nodejs-64.png](https://i.postimg.cc/mkZWdsZS/icons8-nodejs-64.png "NodeJS")](https://nodejs.org/en) <!-- nodejs -->
+  [![icons8-express-js-64.png](https://i.postimg.cc/J07CTL73/icons8-express-js-64.png "Express")](https://expressjs.com/) <!-- express -->
+  [![icons8-react-native-64.png](https://i.postimg.cc/kGMPjmMf/icons8-react-native-64.png "React")](https://react.dev/) <!-- react -->
 
-icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+<div align="center">
+  <sub>Icons by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
+</div>
