@@ -1,16 +1,15 @@
 <h1 align="center">🌟 About Me 🌟</h1>
 
 <div align="center">
-  This text will be centered
-</div>
+  Self-Taught | Fullstack Developer | Digital Artist
+</div><br />
 
-- 🔭 **I’m currently working on** ...
-- 🌱 **I’m currently learning** ...
-- 👯 **I’m looking to collaborate on** ...
-- 🤔 **I’m looking for help with** ...
-- 💬 **Ask me about** ...
-- 📫 **How to reach me:** adriennewman92@gmail.com
-- ⚡ **Fun fact:** ...
+- 🔭 I’m currently working on **The Odin Project's final project "Odin Book"**
+- 🌱 I’m currently learning **how to polish my front-end design skills**
+- 👯 I’m looking to collaborate on **unique Open Source projects**
+- 💬 Ask me about **how I design apps with user functionality in mind**
+- 📫 Reach me at **adriennewman92@gmail.com**
+- 🐍 **Fun fact:** The character featured in my icon and most of my project READMEs is Sega's Majima Gorō from the Yakuza/Like A Dragon series
 
 ## Project Highlights
   [![icons8-messages-64.png](https://i.postimg.cc/x8DHz9QN/icons8-messages-64.png "Messaging App")](https://messaging-app-bice-nine.vercel.app/) <!-- messaging app -->
@@ -32,6 +31,6 @@
   [![icons8-express-js-64.png](https://i.postimg.cc/J07CTL73/icons8-express-js-64.png "Express")](https://expressjs.com/) <!-- express -->
   [![icons8-react-native-64.png](https://i.postimg.cc/kGMPjmMf/icons8-react-native-64.png "React")](https://react.dev/) <!-- react -->
 
-<div align="center">
+<div align="right">
   <sub>Icons by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
 </div>
