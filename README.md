@@ -4,6 +4,8 @@
   Self-Taught | Fullstack Developer | Digital Artist
 </div><br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mk-dlr&label=Profile%20views&color=0e75b6&style=flat" alt="mk-dlr" /> </p>
+
 - 🔭 I’m currently working on **The Odin Project's final project "Odin Book"**
 - 🌱 I’m currently learning **how to polish my front-end design skills**
 - 👯 I’m looking to collaborate on **unique Open Source projects**
