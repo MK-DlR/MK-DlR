@@ -28,10 +28,13 @@
   [![icons8-twitter-squared-64.png](https://i.postimg.cc/Gt3nMC3z/icons8-twitter-squared-64.png "Twitter")](https://x.com/MK_DlR) <!-- twitter -->
 
 ## Languages & Tools
+  [![icons8-express-js-64.png](https://i.postimg.cc/J07CTL73/icons8-express-js-64.png "Express")](https://expressjs.com/) <!-- express -->
   [![icons8-javascript-64.png](https://i.postimg.cc/YSc9dh5j/icons8-javascript-64.png "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- javascript -->
   [![icons8-nodejs-64.png](https://i.postimg.cc/mkZWdsZS/icons8-nodejs-64.png "NodeJS")](https://nodejs.org/en) <!-- nodejs -->
-  [![icons8-express-js-64.png](https://i.postimg.cc/J07CTL73/icons8-express-js-64.png "Express")](https://expressjs.com/) <!-- express -->
+  [![icons8-postgres-64.png](https://i.postimg.cc/d1TGQLt7/icons8-postgresql-64.png "PostgreSQL")](https://www.postgresql.org/) <!-- postgresql -->
+  [![icons8-prism-64.png](https://i.postimg.cc/wvBLJ1BK/icons8-prism-64.png "Prisma")](https://www.prisma.io/) <!-- prisma -->
   [![icons8-react-native-64.png](https://i.postimg.cc/kGMPjmMf/icons8-react-native-64.png "React")](https://react.dev/) <!-- react -->
+  [![icons8-vite-48.png](https://i.postimg.cc/vHvfmRMv/icons8-vite-64.png "Vite")](https://vite.dev/) <!-- vite -->
 
 <div align="right">
   <sub>Icons by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
