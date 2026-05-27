@@ -16,7 +16,7 @@
 ## Project Highlights
   [![icons8-messages-64.png](https://i.postimg.cc/x8DHz9QN/icons8-messages-64.png "Messaging App")](https://messaging-app-bice-nine.vercel.app/) <!-- messaging app -->
   [![icons8-map-64.png](https://i.postimg.cc/nzQBrCyY/icons8-map-64.png "Where's Waldo Game")](https://wheres-waldo-vert.vercel.app/) <!-- where's waldo -->
-  [![icons8-product-64.png](https://i.postimg.cc/Bb9DKJ3K/icons8-product-64.png "Inventory Management")](https://github.com/MK-DlR/inventory-app) <!-- TODO: inventory application -->
+  [![icons8-product-64.png](https://i.postimg.cc/CK8N9Scr/icons8-inventory-64.png "Inventory Management")](https://github.com/MK-DlR/inventory-app) <!-- TODO: inventory application -->
   [![icons8-ship-64.png](https://i.postimg.cc/Fz5cLhvS/icons8-ship-64.png "Battleship Game")](https://mk-dlr.github.io/battleship-project/) <!-- battleship -->
 
 ## Contact
