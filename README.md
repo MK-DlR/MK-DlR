@@ -1,6 +1,7 @@
 <h1 align="center">🌟 About Me 🌟</h1>
 
 <div align="center">
+  Adrien Newman<br />
   Self-Taught | Fullstack Developer | Digital Artist
 </div><br />
 
