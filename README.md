@@ -37,6 +37,10 @@
   [![icons8-react-native-64.png](https://i.postimg.cc/kGMPjmMf/icons8-react-native-64.png "React")](https://react.dev/) <!-- react -->
   [![icons8-vite-48.png](https://i.postimg.cc/vHvfmRMv/icons8-vite-64.png "Vite")](https://vite.dev/) <!-- vite -->
 
+<p align="center">
+  <img src="./itadakimasu.gif" alt="itadakimasu" />
+</p>
+
 <div align="right">
   <sub>Icons by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
 </div>
