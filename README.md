@@ -15,9 +15,9 @@
 - 🐍 **Fun fact:** The character featured in my icon and most of my project READMEs is Sega's Majima Gorō from the Yakuza/Like A Dragon series
 
 ## Project Highlights
-  [![icons8-messages-64.png](https://i.postimg.cc/x8DHz9QN/icons8-messages-64.png "Messaging App")](https://messaging-app-bice-nine.vercel.app/) <!-- messaging app -->
-  [![icons8-map-64.png](https://i.postimg.cc/nzQBrCyY/icons8-map-64.png "Where's Waldo Game")](https://wheres-waldo-vert.vercel.app/) <!-- where's waldo -->
-  [![icons8-product-64.png](https://i.postimg.cc/CK8N9Scr/icons8-inventory-64.png "Inventory Management")](https://inventory-app-e3zm.onrender.com/plants) <!-- inventory application -->
+  [![icons8-messages-64.png](https://i.postimg.cc/x8DHz9QN/icons8-messages-64.png "Hack the Planet [Messaging App]")](https://messaging-app-bice-nine.vercel.app/) <!-- messaging app -->
+  [![icons8-map-64.png](https://i.postimg.cc/nzQBrCyY/icons8-map-64.png "Object Recognition Protocol [Where's Waldo Game]")](https://wheres-waldo-vert.vercel.app/) <!-- where's waldo -->
+  [![icons8-product-64.png](https://i.postimg.cc/CK8N9Scr/icons8-inventory-64.png "HerbTrack [Inventory Management App]")](https://inventory-app-e3zm.onrender.com/plants) <!-- inventory application -->
   [![icons8-ship-64.png](https://i.postimg.cc/Fz5cLhvS/icons8-ship-64.png "Battleship Game")](https://mk-dlr.github.io/battleship-project/) <!-- battleship -->
 
 ## Contact
