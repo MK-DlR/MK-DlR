@@ -18,7 +18,7 @@
   [![icons8-messages-64.png](https://i.postimg.cc/x8DHz9QN/icons8-messages-64.png "Hack the Planet [Messaging App]")](https://messaging-app-bice-nine.vercel.app/) <!-- messaging app -->
   [![icons8-map-64.png](https://i.postimg.cc/nzQBrCyY/icons8-map-64.png "Object Recognition Protocol [Where's Waldo Game]")](https://wheres-waldo-vert.vercel.app/) <!-- where's waldo -->
   [![icons8-product-64.png](https://i.postimg.cc/CK8N9Scr/icons8-inventory-64.png "HerbTrack [Inventory Management App]")](https://inventory-app-e3zm.onrender.com/plants) <!-- inventory application -->
-  [![icons8-ship-64.png](https://i.postimg.cc/Fz5cLhvS/icons8-ship-64.png "Battleship Game")](https://mk-dlr.github.io/battleship-project/) <!-- battleship -->
+  [![icons8-ship-64.png](https://i.postimg.cc/pLQY6QGD/icons8-paper-ship-64.png "Battleship Game")](https://mk-dlr.github.io/battleship-project/) <!-- battleship -->
 
 ## Contact
   [![icons8-gmail-logo-64.png](https://i.postimg.cc/brYf6hYx/icons8-gmail-logo-64.png "Email Me")](mailto:adriennewman92@gmail.com) <!-- email -->
