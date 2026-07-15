@@ -33,12 +33,13 @@
   [![icons8-nodejs-64.png](https://i.postimg.cc/mkZWdsZS/icons8-nodejs-64.png "Node.js")](https://nodejs.org/en) <!-- nodejs -->
   [![icons8-react-native-64.png](https://i.postimg.cc/kGMPjmMf/icons8-react-native-64.png "React")](https://react.dev/) <!-- react -->
   [![icons8-express-js-64.png](https://i.postimg.cc/J07CTL73/icons8-express-js-64.png "Express")](https://expressjs.com/) <!-- express -->
-  [![icons8-ejs-64.png](https://i.postimg.cc/gcVR8Jjs/icons8-ejs-64.png "EJS")](https://ejs.co/) <!-- ejs -->
+  [![icons8-ejs-64.png](https://i.postimg.cc/fyPhJsGf/icons8-ejs-64(1).png "EJS")](https://ejs.co/) <!-- ejs -->  
   [![icons8-prism-64.png](https://i.postimg.cc/wvBLJ1BK/icons8-prism-64.png "Prisma")](https://www.prisma.io/) <!-- prisma -->
-  [![icons8-postgres-64.png](https://i.postimg.cc/xjvHMC8x/icons8-postgresql-64.png "PostgreSQL")](https://www.postgresql.org/) <!-- postgresql -->
+  [![icons8-postgres-64.png](https://i.postimg.cc/qqFdzrPL/icons8-postgresql-64(1).png "PostgreSQL")](https://www.postgresql.org/) <!-- postgresql -->  
   [![icons8-vite-48.png](https://i.postimg.cc/vHvfmRMv/icons8-vite-64.png "Vite")](https://vite.dev/) <!-- vite -->
   [![icons8-git-64.png](https://i.postimg.cc/sfYS7XxT/icons8-git-64.png "Git")](https://git-scm.com/) <!-- git -->
-  [![icons8-postman-inc-64.png](https://i.postimg.cc/CMGDk15v/icons8-postman-inc-64.png "Postman")](https://www.postman.com/) <!-- postman -->
+  [![icons8-postman-inc-64.png](https://i.postimg.cc/RhYzNmkT/icons8-postman-inc-64(1).png "Postman")](https://www.postman.com/) <!-- postman -->
+  
 
 <p align="center">
   <img src="./itadakimasu.gif" alt="itadakimasu" />
