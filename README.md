@@ -22,7 +22,7 @@
 
 ## Contact
   [![icons8-gmail-logo-64.png](https://i.postimg.cc/brYf6hYx/icons8-gmail-logo-64.png "Email Me")](mailto:adriennewman92@gmail.com) <!-- email -->
-  [![icons8-website-64.png](https://i.postimg.cc/43vD0wqz/icons8-website-64.png "Personal Website [In Progress]")](https://mk-dlr.github.io/personal-site/) <!-- TODO: personal website -->
+  [![icons8-website-64.png](https://i.postimg.cc/43vD0wqz/icons8-website-64.png "Portfolio Website")](https://adrien-newman.vercel.app/) <!-- personal website -->
   [![icons8-github-64.png](https://i.postimg.cc/FzFXP4F0/icons8-github-64.png "GitHub (You're Here!)")](https://github.com/MK-DlR) <!-- github -->
   [![icons8-linkedin-64.png](https://i.postimg.cc/Kjch92cD/icons8-linkedin-64.png "LinkedIn")](https://www.linkedin.com/in/adrien-newman/) <!-- linkedin -->
   [![icons8-bluesky-64.png](https://i.postimg.cc/SRQbZhQX/icons8-bluesky-64.png "Bluesky")](https://bsky.app/profile/mk-dlr.bsky.social) <!-- bsky -->
