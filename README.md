@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk-dlr&label=Profile%20views&color=664cff&style=flat" alt="mk-dlr" /> </p>
 
-- 🔭 I’m currently working on **The Odin Project's final project "Odin Book"**
-- 🌱 I’m currently learning **how to polish my front-end design skills**
+- 🔭 I’m currently **working on a TypeScript Job Application tracker project**
+- 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **unique Open Source projects**
 - 💬 Ask me about **how I design apps with user functionality in mind**
 - 📫 Reach me at **adriennewman92@gmail.com**
